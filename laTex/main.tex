@@ -4,11 +4,18 @@
 \input title.tex
 
 \begin{document}
-\pagestyle{empty}
 \maketitle
-\newpage
-\input abstract.tex
-% \input introduction.tex
+\thispagestyle{empty}
 
+\clearpage
+\setcounter{page}{0}
+\pagenumbering{roman}
+\tableofcontents
+\clearpage
+\setcounter{page}{0}
+\pagenumbering{arabic}
+
+\input abstract.tex
+\input introduction.tex
 
 \end{document}
