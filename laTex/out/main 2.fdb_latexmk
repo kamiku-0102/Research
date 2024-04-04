@@ -1,0 +1,9 @@
+# Fdb version 4
+["lualatex"] 0 "/Users/kazuki/Documents/研究/laTex/main.tex" "out/main.pdf" "main" 0 -1
+  "/Users/kazuki/Documents/研究/laTex/main.tex" 0 -1 0 ""
+  "out/main.aux" 0 -1 0 "lualatex"
+  (generated)
+  "out/main.aux"
+  "out/main.log"
+  "out/main.pdf"
+  (rewritten before read)
